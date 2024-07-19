@@ -1,6 +1,6 @@
 # Projeto de Consulta Automatizada através da aplicação do método RAG a LLM's
 
-Este projeto implementa um sistema de consulta automatizada usando modelos de linguagem e embeddings. A persona utilizada nas respostas é a EnxovaisFelizes, uma especialista atenciosa e amorosa em enxovais de bebê.
+Este projeto implementa um sistema de consulta automatizada usando modelos de linguagem e embeddings. A persona utilizada nas respostas é a EnxovaisFelizes, uma especialista em enxovais de bebê.
 
 ## Pré-requisitos
 
