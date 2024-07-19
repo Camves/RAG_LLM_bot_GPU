@@ -54,13 +54,13 @@ A resposta será gerada pela EnxovaisFelizes, incluindo a assinatura:
 ```
 
 ## Estrutura do Código
-device: Verifica se CUDA está disponível e configura o dispositivo.
-Settings: Configurações para o modelo de linguagem e embedding.
-SimpleDirectoryReader: Lê os documentos da pasta artigos.
-VectorStoreIndex: Armazena os documentos em um banco de dados vetorial.
-VectorIndexRetriever: Configura o recuperador para obter os documentos mais similares.
-RetrieverQueryEngine: Monta o motor de consulta que processa as perguntas.
-chat(): Função assíncrona que lida com as interações do usuário e gera respostas.
+- device: Verifica se CUDA está disponível e configura o dispositivo.
+- Settings: Configurações para o modelo de linguagem e embedding.
+- SimpleDirectoryReader: Lê os documentos da pasta artigos.
+ -VectorStoreIndex: Armazena os documentos em um banco de dados vetorial.
+- VectorIndexRetriever: Configura o recuperador para obter os documentos mais similares.
+- RetrieverQueryEngine: Monta o motor de consulta que processa as perguntas.
+- chat(): Função assíncrona que lida com as interações do usuário e gera respostas.
 
 ## Contribuição
 Sinta-se à vontade para fazer um fork do projeto, abrir issues ou pull requests.
