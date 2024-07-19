@@ -35,7 +35,7 @@ Certifique-se de que os artigos estão disponíveis na pasta `artigos`. O script
 Execute o script para iniciar a consulta:
 
 ```bash
-python seu_script.py
+python teste_llm.py
 ```
 Durante a execução, você será solicitado a inserir uma pergunta. A EnxovaisFelizes responderá com base no contexto dos artigos disponíveis.
 
