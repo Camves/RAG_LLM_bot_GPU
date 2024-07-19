@@ -16,8 +16,8 @@ Este projeto implementa um sistema de consulta automatizada usando modelos de li
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/Camves/RAG_LLM_bot_GPU/tree/main
+    cd RAG_LLM_bot_GPU
     ```
 
 2. Instale as dependências:
